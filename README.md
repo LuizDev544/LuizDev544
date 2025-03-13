@@ -36,6 +36,7 @@
 <h3>As Liguagens que tenho um certo Conhecimento:</h3>
 
 <div style="display:inline_block"><br>
+  <img align = "center" height="40"  src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png" />
   <img align = "center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img align = "center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align = "center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
