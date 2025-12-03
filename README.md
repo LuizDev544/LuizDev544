@@ -1,10 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Luiz+Fernando👋;Eu+tenho+19+anos;Eu+sou+Desenvolverdor+Full+Stack👨‍💻:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Luiz+Fernando👋;Eu+tenho+20+anos;Eu+sou+Desenvolverdor+Full+Stack👨‍💻:%29)](https://git.io/typing-svg)
 
 <h2>Sobre Mim / Carreira Profissional</h2>
 
-<p>Sou Analista e Desenvolvedor de Sistemas e atualmente estou cursando uma graduação na área de Tecnologia da Informação. Tenho grande interesse em explorar linguagens de programação e compreender o funcionamento do setor de tecnologia. Dedico meu tempo ao aprimoramento contínuo dos meus conhecimentos e busco ingressar na carreira de Desenvolvimento Web 💻.</p>
+<p>Sou Desenvolvedor Full Stack, sou formado pela a Universidade de Mogi das Cruzes em Análise e Desenvolvedor de Sistemas e estou fazendo um curso de Desenvolvedor Full Stack Python na plataforma de ensino EBAC.</p>
+<p>Um desenvolvedor bem focado em criar soluções completas, seguras e escaláveis , atuo em diversas camadas dos projetos , destacando o front-end , back-end , banco de dados , arquitetura do projeto , segurança da informação e testes de aplicação. Entretanto , aplico metodologias ágeis e frameworks modernos para entregar produtos eficientes e de alto padrão! </p>
 <br>
 <p align="center">
   |Git Hub Status LuizDev544|
