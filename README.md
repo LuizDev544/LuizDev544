@@ -8,12 +8,12 @@
 <p>Um desenvolvedor bem focado em criar soluções completas, seguras e escaláveis , atuo em diversas camadas dos projetos , destacando o front-end , back-end , banco de dados , arquitetura do projeto , segurança da informação e testes de aplicação. Entretanto , aplico metodologias ágeis e frameworks modernos para entregar produtos eficientes e de alto padrão! </p>
 <br>
 <p align="center">
-  |Git Hub Status LuizDev544|
+  |Git Hub Status LuizFernando|
 </p>
 <br>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuizDev544&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=00bfbf&text_color=ffffff&bg_color=0d1117"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizDev544&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuizFernando&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=00bfbf&text_color=ffffff&bg_color=0d1117"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFernando&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 
 </div>
 <br>
